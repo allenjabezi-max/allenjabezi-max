@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Your greatest developer👋
+
+I build Python tools and voice assistants.
+
+## 🛠️ Tech I use
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+## 📫 Reach me
+[Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/you)
