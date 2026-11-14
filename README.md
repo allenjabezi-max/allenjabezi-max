@@ -107,6 +107,36 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=3" width="100%" alt="">
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/divider.gif" width="100%" alt="">
+
+<h3>🎧 Playlist_of_the_day 🎧</h3>
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/equalizer.gif" width="240" alt="Music equalizer">
+
+<!-- EDIT: paste a Spotify card or link here if you like -->
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/divider.gif" width="100%" alt="">
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/i-code.gif" width="500" alt="I code">
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/divider.gif" width="100%" alt="">
+
+<h3>🦋 QUOTE :</h3>
+
+> *"Write your favorite quote here."* — Someone you like
+
+<h3>🦋 FUN FACT :</h3>
+
+> Most of my code runs on good music and a lot of retries
+
+<h3>🦋 JOKE :</h3>
+
+> If the code doesn’t run, `print()` it until it confesses
+
+<img src="https://raw.githubusercontent.com/allenjabezi-max/allenjabezi-max/main/assets/divider.gif" width="100%" alt="">
+
 <h3>📫 LET’S CONNECT</h3>
 
 <!-- EDIT: check your exact LinkedIn address (open your LinkedIn profile and copy the link) -->
