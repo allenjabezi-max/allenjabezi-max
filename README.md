@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 
 > Most of my code runs on good music and a lot of retries
 
-<h3>🦋 JOKE :</h3>
+<h3>🦋 JOKE OF THE DAY:</h3>
 
 > If the code doesn’t run, `print()` it until it confesses
 
